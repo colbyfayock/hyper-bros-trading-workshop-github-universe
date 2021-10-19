@@ -56,7 +56,9 @@ Add custom styles to the app that apply whenever the Snipcart shopping cart is o
 #### Resources
 * Browser developer tools inspector
 
-### 3. Override the Snipcart UI with custom component templates 
+## Extra Credit
+
+### 1. Override the Snipcart UI with custom component templates 
 
 If we want to take our customizzations up a notch, Snipcart lets us completely override components with their template customization.
 
@@ -74,43 +76,3 @@ Customize a Snipcart UI template.
 #### Resources
 * [Customization - Snipcart](https://docs.snipcart.com/v3/setup/customization)
 * [Default theme reference - Snipcart](https://docs.snipcart.com/v3/themes/default/reference)
-
-### 4. Manage custom templates in an external file
-
-By default, we're able to configure all of our template overrides right inside of the Snipcart initialization snippet.
-
-But as we could imagine, working with a bunch of Vue templates there (or even just one) can start to become a little hard to manage.
-
-Instead, we can specify a separate templates file to help organize and improve our development experience. 
-
-#### Goal
-
-Create and link to a Snipcart templates file to manage component overrides.
-
-#### Where We'll Make Changes
-* `public/snipcart-templates.html`
-* `src/pages/_document.js`
-
-#### Resources
-* [Defining templates in an external file - Snipcart](https://docs.snipcart.com/v3/setup/customization#defining-templates-in-an-external-file)
-
-## Extra Credit
-
-### 1. Override and customize another cart UI component
-
-Now that we have an idea on how to customize our shopping cart UI, let's try another component!
-
-#### Goal
-
-Set up a new template to override a shopping cart component.
-
-#### Where We'll Make Changes
-* `public/snipcart-templates.html`
-
-#### Resources
-* [Customization - Snipcart](https://docs.snipcart.com/v3/setup/customization)
-* [Default theme reference - Snipcart](https://docs.snipcart.com/v3/themes/default/reference)
-
-## Next Lesson
-
-[07 - Add clientside product search with fuse.js](https://github.com/colbyfayock/hyper-bros-trading-workshop/blob/main/lessons/07%20-%20Add%20clientside%20product%20search%20with%20fuse.js.md)
