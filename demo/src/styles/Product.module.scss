@@ -1,0 +1,30 @@
+@import "@styles/util/__util";
+
+$color-link: blueviolet;
+
+.productWrapper {
+  display: flex;
+}
+
+.productImage {
+
+  @extend %card-image;
+  width: 50%;
+  margin-right: 2em;
+  transform: rotate( 2deg ) scale(.9) translateY(-1em);
+  transition: transform .1s;
+
+  &:hover {
+    transform: rotate(-3deg) scale(1) translateY(-1em);
+    transition: transform .2s;
+  }
+
+  & > div {
+    display: block!important;
+  }
+
+}
+
+.productPrice {
+  margin: .4em 0 0;
+}

@@ -1,0 +1,101 @@
+@import "@styles/settings/__settings";
+@import "@styles/util/__util";
+
+$color-link: blueviolet;
+
+.products {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 3em;
+}
+
+.productTitle {
+  font-size: 1.4em;
+  margin: .4em 0 0;
+}
+
+.productPrice {
+  margin: .4em 0 0;
+}
+
+.productImage {
+
+  @extend %card-image;
+  transform: rotate( -2deg ) scale(1) translateY(-1em);
+  transition: transform .1s;
+
+  &:hover {
+    transform: rotate(0) scale(1.1) translateY(-1em);
+    transition: transform .2s;
+  }
+
+  & > div {
+    display: block!important;
+  }
+
+}
+
+.discover {
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 4em;
+
+  h2 {
+    font-size: 1.2em;
+    margin-top: 0;
+  }
+
+}
+
+.allegiances {
+
+  ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+
+    margin: 0 .5em;
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    &:last-child {
+      margin-right: 0;
+    }
+
+  }
+
+}
+
+.allegianceIsActive {
+  border: solid 5px $color-brand-blue;
+}
+
+.search {
+
+  input {
+
+    padding: .5em .6em;
+    background: none;
+    border: solid 5px gray;
+
+    &:focus {
+      outline: 0;
+      border: solid 5px $color-brand-green;
+      box-shadow: 0 0 10px lighten($color-brand-green, 10);
+    }
+
+  }
+
+}
