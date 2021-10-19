@@ -14,7 +14,6 @@ Excited to learn? You should be! Here's some of the stuff we'll learn in this wo
 * Create a new Next.js app using a starter template
 * Deploy a Next.js app on Netlify
 * Add a shopping cart and checkout with Snipcart
-* Use Fuse.js to provide clientside search
 
 ## 👨‍🚀 Who Am I?
 I'm Colby Fayock! 👋
@@ -104,7 +103,6 @@ As far as the project we'll create and work through together, you're welcome to 
 * [04 - Add Snipcart to the homepage](https://github.com/colbyfayock/hyper-bros-trading-workshop/blob/main/lessons/04%20-%20Add%20Snipcart%20to%20the%20homepage.md)
 * [05 - Integrate Snipcart sitewide](https://github.com/colbyfayock/hyper-bros-trading-workshop/blob/main/lessons/05%20-%20Integrate%20Snipcart%20sitewide.md)
 * [06 - Customize Snipcart shopping cart](https://github.com/colbyfayock/hyper-bros-trading-workshop/blob/main/lessons/06%20-%20Customize%20Snipcart%20shopping%20cart.md)
-* [07 - Add clientside product search with fuse.js](https://github.com/colbyfayock/hyper-bros-trading-workshop/blob/main/lessons/07%20-%20Add%20clientside%20product%20search%20with%20fuse.js.md)
 
 ## 🎓 After the Workshop
 
