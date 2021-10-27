@@ -79,4 +79,4 @@ Update the store branding to use new colors.
 
 ## Next Lesson
 
-[02 - Create a new GitHub repository and link local project](https://github.com/colbyfayock/hyper-bros-trading-workshop/blob/main/lessons/02%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md)
+[02 - Create a new GitHub repository and link local project](https://github.com/colbyfayock/hyper-bros-trading-workshop-github-universe/blob/main/lessons/02%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md)
