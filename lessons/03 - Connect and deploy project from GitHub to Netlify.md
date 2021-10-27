@@ -64,4 +64,4 @@ Tip: Try changing the store's name to something goofy on a new branch, pushing t
 
 ## Next Lesson
 
-[04 - Add Snipcart to the homepage](https://github.com/colbyfayock/hyper-bros-trading-workshop/blob/main/lessons/04%20-%20Add%20Snipcart%20to%20the%20homepage.md)
+[04 - Add Snipcart to the homepage](https://github.com/colbyfayock/hyper-bros-trading-workshop-github-universe/blob/main/lessons/04%20-%20Add%20Snipcart%20to%20the%20homepage.md)
