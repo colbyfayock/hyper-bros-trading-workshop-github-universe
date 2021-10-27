@@ -76,3 +76,18 @@ Customize a Snipcart UI template.
 #### Resources
 * [Customization - Snipcart](https://docs.snipcart.com/v3/setup/customization)
 * [Default theme reference - Snipcart](https://docs.snipcart.com/v3/themes/default/reference)
+
+## Feedback
+
+The good, the bad -- I want to know! I would really appreciate you taking any time to hop in this survey and be honest about your experience with the workshop. Please take into consideration both how much you've enjoyed the workshop and how much you felt you've learned.
+
+[Take the survey!](https://forms.gle/Ku2gopCyGyYXfHC19) (https://forms.gle/Ku2gopCyGyYXfHC19)
+
+P.S. The form is anonymous unless you decide to provide contact details to follow up with.
+
+
+## More Ecommerce on the Jamstack
+
+Looking to take what you've learned to another level? Check out my course Ecommerce on the Jamstack where I walk you through some of the things you've work through in this workshop and more, including sourcing our products from headless WordPress and how we can manually build our Snipcart hook with React State and Context in addition to other features!
+
+https://www.leveluptutorials.com/tutorials/ecommerce-on-the-jamstack-with-snipcart-next-js-and-wordpress
