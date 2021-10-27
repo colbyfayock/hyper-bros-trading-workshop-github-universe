@@ -7,7 +7,7 @@ In this workshop you'll learn how to build an online store using modern web tool
 * [Before the Workshop](#-before-the-workshop)
 * [The Workshop](#-the-workshop)
 
-Demo: https://hyper-bros-trading-workshop.netlify.app/
+Demo: https://hyper-bros-trading-workshop-github-universe.netlify.app/
 
 ## 🔍 Workshop Overview
 Excited to learn? You should be! Here's some of the stuff we'll learn in this workshop:
