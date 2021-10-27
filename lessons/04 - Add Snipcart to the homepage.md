@@ -121,4 +121,4 @@ Configure Snipcart to open the shopping cart modal with the narrow option.
 
 ## Next Lesson
 
-[05 - Integrate Snipcart sitewide](https://github.com/colbyfayock/hyper-bros-trading-workshop/blob/main/lessons/05%20-%20Integrate%20Snipcart%20sitewide.md)
+[05 - Integrate Snipcart sitewide](https://github.com/colbyfayock/hyper-bros-trading-workshop-github-universe/blob/main/lessons/05%20-%20Integrate%20Snipcart%20sitewide.md)
