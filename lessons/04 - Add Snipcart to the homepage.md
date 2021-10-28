@@ -30,7 +30,7 @@ To do this, we'll first need to find our key, then configure that key for:
 
 #### Goal
 
-Find the Snipcart API key and configure domains for localhost:3000 and your Netlify URL
+Find the Snipcart API key, configure your environment, and and add your Netlify domain for Snipcart
 
 #### Resources
 * [API Keys - Snipcart](https://docs.snipcart.com/v3/dashboard/account-configuration#3-api-keys)
